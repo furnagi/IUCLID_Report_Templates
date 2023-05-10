@@ -304,6 +304,7 @@ ${textValue}
 </#compress>
 </#macro>
 
+
 <#macro range rangeValue locale="en" includeQualifier="true">
 <#compress>
 	<#if rangeValue?has_content>
